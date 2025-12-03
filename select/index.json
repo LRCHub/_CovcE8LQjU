@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "恋愛裁判",
+  "base_artist": "40mP",
+  "createdAt": "2025-12-03T12:35:23.373532Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "恋愛裁判",
+      "artist": "40mP feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/01_恋愛裁判_40mP_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "恋愛裁判 (feat. 花里みのり&桃井愛莉&初音ミク)",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/02_恋愛裁判_(feat._花里みのり&桃井愛莉&初音ミク)_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "恋愛裁判",
+      "artist": "MORE MORE JUMP!",
+      "has_synced": true,
+      "path": "select/03_恋愛裁判_MORE_MORE_JUMP!.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "恋愛裁判",
+      "artist": "そらる",
+      "has_synced": true,
+      "path": "select/04_恋愛裁判_そらる.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "恋愛裁判",
+      "artist": "40mp",
+      "has_synced": true,
+      "path": "select/05_恋愛裁判_40mp.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "恋愛裁判",
+      "artist": "40mP (40㍍P)/初音未来 (初音ミク)",
+      "has_synced": true,
+      "path": "select/06_恋愛裁判_40mP_(40メートルP)_初音未来_(初音ミク).lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "恋愛裁判",
+      "artist": "40mP feat. いかさん",
+      "has_synced": true,
+      "path": "select/07_恋愛裁判_40mP_feat._いかさん.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "恋愛裁判",
+      "artist": "Soraru",
+      "has_synced": true,
+      "path": "select/08_恋愛裁判_Soraru.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "恋愛裁判",
+      "artist": "V.A",
+      "has_synced": true,
+      "path": "select/09_恋愛裁判_V.A.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "恋愛裁判",
+      "artist": "40mP",
+      "has_synced": true,
+      "path": "select/10_恋愛裁判_40mP.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "恋愛裁判",
+      "artist": "MORE MORE JUMP! feat. 花里みのり&桃井愛莉&初音ミク",
+      "has_synced": true,
+      "path": "select/11_恋愛裁判_MORE_MORE_JUMP!_feat._花里みのり&桃井愛莉&初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "恋愛裁判",
+      "artist": "40mP feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/12_恋愛裁判_40mP_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "恋愛裁判 - STUDY WITH MIKU ver. -",
+      "artist": "40mP",
+      "has_synced": true,
+      "path": "select/13_恋愛裁判_-_STUDY_WITH_MIKU_ver._-_40mP.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "恋愛裁判",
+      "artist": "40mP feat. 初音ミク",
+      "has_synced": true,
+      "path": "select/14_恋愛裁判_40mP_feat._初音ミク.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "恋愛裁判 - Love Trial",
+      "artist": "40mP",
+      "has_synced": true,
+      "path": "select/15_恋愛裁判_-_Love_Trial_40mP.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "恋愛裁判",
+      "artist": "Rib",
+      "has_synced": true,
+      "path": "select/16_恋愛裁判_Rib.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "恋愛裁判",
+      "artist": "40mP",
+      "has_synced": false,
+      "path": "select/pl_01_恋愛裁判_40mP.txt"
+    }
+  ]
+}
